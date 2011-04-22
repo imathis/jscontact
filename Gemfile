@@ -12,4 +12,11 @@ group :development, :test do
   gem "mocha"
   gem "capybara"
   gem "autotest"
+
 end
+
+gem 'rb-fsevent'
+gem "compass", "0.11.beta.7"
+gem 'guard-shell'
+gem 'guard-livereload'
+#gem 'fancy-buttons', :path => '/Users/bmathis/workspace/github/imathis/fancy-buttons'
